@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.pImg {
+  height: 200px;
+  width: 100%;
+}
+.bg1 {
+  padding: 5px;
+  width: 100%;
+}
+.min1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.min2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.im {
+  margin-top: 18px;
+  margin-right: 5px;
+}
